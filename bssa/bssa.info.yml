@@ -1,0 +1,8 @@
+name: 'Basic Site Settings Alter'
+type: module
+description: 'To alter the basic site settigs form.'
+# version: VERSION
+# core: 8.x
+core: 8.x
+package: 'Custom'
+

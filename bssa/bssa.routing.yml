@@ -1,0 +1,8 @@
+bssa.default_controller_jsonnodedata:
+  path: '/page_json/{siteapikey}/{nid}'
+  defaults:
+    _controller: '\Drupal\bssa\Controller\DefaultController::jsonnodedata'
+    _title: 'Display Node Data in the form of Json'
+  requirements:
+    _permission: 'access content'
+    

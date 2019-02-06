@@ -1,0 +1,5 @@
+services:
+  bssa.route_subscriber:
+    class: Drupal\bssa\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }
