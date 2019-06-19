@@ -4,7 +4,7 @@ The 'Basic Site Settings Alter' module adds a new field (Site API Key) in the 'a
 
 ### Manually
 
- * Simple imstallation process like other contrib modules
+ * Simple installation process like other contrib modules
  
 ## Usage
 
